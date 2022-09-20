@@ -169,10 +169,6 @@ class Dashboard extends React.Component {
             <Typography variant="h4" gutterBottom component="h2">
               Users
             </Typography>
-            
-            <div className={classes.tableContainer}>
-              <SimpleTable />
-            </div>
           </main>
         </div>
       </React.Fragment>

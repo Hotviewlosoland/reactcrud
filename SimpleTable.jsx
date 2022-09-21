@@ -39,11 +39,7 @@ function SimpleTable(props) {
   
   return (
     <Paper className={classes.root}>
-      
-            );
-          })}
-        </TableBody>
-      </Table>
+      <div>hello</div>
     </Paper>
   );
 }
